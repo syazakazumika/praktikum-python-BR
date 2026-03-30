@@ -3,3 +3,5 @@
 !git commit -m "add: struktur folder awal"
 !git add .
 !git commit -m "add: tambah notebook praktikum"
+!git add .
+!git commit -m "docs: update README"
