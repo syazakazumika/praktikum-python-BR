@@ -1,6 +1,6 @@
 # praktikum-python-BR
 ## Deskripsi
-Repo ini digunakan untuk praktikum GitHub dan Google Colab.
+Repo ini digunakan untuk praktikum GitHub dan Google Collab.
 ## Isi
 - Notebook praktikum
 - Latihan commit dan push
