@@ -1,7 +1,9 @@
 # praktikum-python-BR
-!git add .
-!git commit -m "add: struktur folder awal"
-!git add .
-!git commit -m "add: tambah notebook praktikum"
-!git add .
-!git commit -m "docs: update README"
+## Deskripsi
+Repo ini digunakan untuk praktikum GitHub dan Google Colab.
+## Isi
+- Notebook praktikum
+- Latihan commit dan push
+## Tujuan
+- Memahami GitHub
+- Melakukan sinkronisasi dengan Colab
